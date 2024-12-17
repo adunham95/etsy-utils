@@ -100,6 +100,8 @@
 				correct file that you selected from the .zip file.
 			</li>
 		</ol>
+		<p class="text-center">Questions? Send an Etsy message or email our support team at</p>
+		<p class="text-center">knoxvilleprintables@gmail.com</p>
 	</div>
 </main>
 
